@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Negocio</title>
+</head>
+<body style="font-family: Arial; text-align:center;">
+  <h1>Bienvenido a Mi Negocio</h1>
+  <p>Ofrecemos servicios profesionales en nuestra ciudad.</p>
+  <a href="https://wa.me/8297933655" 
+     style="background:green;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">
+     Contactar por WhatsApp
+  </a>
+</body>
+</html>
